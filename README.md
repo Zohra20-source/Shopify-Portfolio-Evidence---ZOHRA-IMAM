@@ -1,1 +1,1 @@
-# Shopify-Portfolio-Evidence---ZOHRA-IMAM
+This repository contains evidence of my hands-on experience with Shopify store development and e-commerce management. The project demonstrates my ability to create, customize, and manage Shopify-based online stores, including theme customization, product management, store configuration, and user experience optimization.
